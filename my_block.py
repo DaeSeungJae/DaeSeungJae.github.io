@@ -1,5 +1,4 @@
-#다시 해보는 브랜치
-#한번 더 다시 해보는 코딩 수정
+#이건 어떻게 적용되는거지
 #웹캠으로 실시간으로 특정색 물체 추적하기
 import cv2 as cv
 import numpy as np
@@ -13,7 +12,7 @@ upper_blue2 = 0
 lower_blue3 = 0
 upper_blue3 = 0
 
-#진짜 찐찐막
+
 
 def nothing(x):
     pass

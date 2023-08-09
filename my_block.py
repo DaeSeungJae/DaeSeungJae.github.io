@@ -13,6 +13,7 @@ upper_blue2 = 0
 lower_blue3 = 0
 upper_blue3 = 0
 
+#진짜 찐찐막
 
 def nothing(x):
     pass

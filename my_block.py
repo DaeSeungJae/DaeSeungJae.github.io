@@ -1,5 +1,6 @@
 # 하......
 # 흠...............
+# 오호
 #웹캠으로 실시간으로 특정색 물체 추적하기
 import cv2 as cv
 import numpy as np
